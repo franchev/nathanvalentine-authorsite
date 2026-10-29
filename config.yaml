@@ -1,10 +1,10 @@
 # ABOUTME: Main Hugo configuration file for the author website.
 # ABOUTME: Controls site-wide settings, theme selection, and menu structure.
 
-baseURL: "/"
+baseURL: "https://example.github.io/nathan-valentine-author-site/"
 languageCode: "en-us"
 title: "Author Site"
-theme: "inkwell"
+theme: "mandatory-fun"
 
 disableKinds:
   - taxonomy

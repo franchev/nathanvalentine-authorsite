@@ -5,7 +5,7 @@
 name: "Nathan Valentine"
 
 # A short tagline shown under your name on the home page
-tagline: "Children's Books"
+tagline: "Author of Liturgy Elephant"
 
 # Your author bio — shown on the About page
 bio: "Nathan Valentine Nathan Valentine writes children's books designed to spark imagination while gently guiding young hearts. Believing that the best lessons are wrapped in exciting journeys. Nathan fills every story with playful characters, meaningful adventures, friendship, love, and deep compassion."
@@ -15,7 +15,7 @@ photo: "images/author.png"
 
 # Your social media links (delete any you don't use)
 social:
-  goodreads: "https://goodreads.com/nathanvalentine"
+  goodreads: "https://www.goodreads.com/author/show/21098067.Nathan_Valentine"
 
 # Email address shown on the Contact page
 contact_email: "nathanvalentine@example.com"
@@ -29,4 +29,6 @@ contact_email: "nathanvalentine@example.com"
 #   Buttondown:  "https://buttondown.com/api/emails/embed-subscribe/your-username"
 #   Mailchimp:   "https://yourname.us1.list-manage.com/subscribe/post?u=XXX&id=YYY"
 #   ConvertKit:  "https://app.convertkit.com/forms/your-form-id/subscriptions"
-newsletter_action: ""
+newsletter_title: "Let’s Go on a Meaningful Adventure!"
+newsletter_description: "Join Nathan Valentine’s reader circle to stay updated on new children's book releases, custom printables, and heartfelt stories designed to spark young imaginations."
+newsletter_action: "https://assets.mailerlite.com/jsonp/2061720/forms/202691731935724561/subscribe"

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.github.io/nathan-valentine-author-site/blog/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.github.io/nathan-valentine-author-site/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.github.io/nathan-valentine-author-site/blog/my-first-post/</loc>
+    <lastmod>2024-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.github.io/nathan-valentine-author-site/about/</loc>
+  </url><url>
+    <loc>https://example.github.io/nathan-valentine-author-site/books/</loc>
+  </url><url>
+    <loc>https://example.github.io/nathan-valentine-author-site/contact/</loc>
+  </url>
+</urlset>

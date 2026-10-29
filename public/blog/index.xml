@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog on Nathan Valentine Author Site</title>
+		<link>https://example.github.io/nathan-valentine-author-site/blog/</link>
+		<description>Recent content in Blog on Nathan Valentine Author Site</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://example.github.io/nathan-valentine-author-site/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Welcome to My Author Site</title>
+				<link>https://example.github.io/nathan-valentine-author-site/blog/my-first-post/</link>
+				<pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+				<guid>https://example.github.io/nathan-valentine-author-site/blog/my-first-post/</guid>
+				<description>&lt;p&gt;Welcome to my brand new author website! I&amp;rsquo;m excited to have a home on the web where I can share updates about my writing, upcoming releases, and the occasional behind-the-scenes look at my creative process.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-to-write-a-new-blog-post&#34;&gt;How to Write a New Blog Post&lt;/h2&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re reading this as the site owner, here&amp;rsquo;s how to add your own posts:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Create a new file in the &lt;code&gt;content/blog/&lt;/code&gt; folder&lt;/li&gt;&#xA;&lt;li&gt;Name it something like &lt;code&gt;my-post-title.md&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Add the front matter at the top (the part between the &lt;code&gt;---&lt;/code&gt; lines) with a title and date&lt;/li&gt;&#xA;&lt;li&gt;Write your post in Markdown below the front matter&lt;/li&gt;&#xA;&lt;li&gt;Commit the file — your site will update automatically!&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;That&amp;rsquo;s it. Happy writing!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

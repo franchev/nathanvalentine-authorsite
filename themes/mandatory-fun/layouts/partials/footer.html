@@ -26,12 +26,31 @@
     {{ end }}
   </div>
 </footer>
-<!-- MailerLite Universal -->
 <script>
-    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
-    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
-    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
-    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-    ml('account', '2061720');
+document.addEventListener("DOMContentLoaded", function() {
+  const form = document.querySelector('footer form') || document.querySelector('form');
+  if (!form) return;
+
+  form.addEventListener("submit", function(e) {
+    e.preventDefault();
+
+    const formData = new FormData(form);
+    const searchParams = new URLSearchParams();
+    for (const [key, value] of formData.entries()) {
+      searchParams.append(key, value);
+    }
+
+    fetch(form.getAttribute("action"), {
+      method: "POST",
+      body: searchParams,
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+    })
+    .then(() => {
+      form.innerHTML = '<p style="font-weight: bold;">Thank you for subscribing!</p>';
+    })
+    .catch(() => {
+      form.innerHTML = '<p style="font-weight: bold;">Thank you for subscribing!</p>';
+    });
+  });
+});
 </script>
-<!-- End MailerLite Universal -->

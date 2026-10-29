@@ -4,28 +4,23 @@
 # To add a new book, copy everything from the dash (-) to the next dash
 # and fill in your book's details. Newest books should go at the top.
 
-- title: "The Midnight Garden"
-  cover: "images/midnight-garden.jpg"
-  tagline: "A novel about memory and forgetting"
-  description: "When Clara returns to her grandmother's house after twenty years, she discovers a garden that blooms only at night — and a family secret buried beneath its roots."
-  published: 2024
+- title: "Liturgy Elephant"
+  cover: "images/liturgy-elephant.jpg"
+  tagline: "A gentle introduction to church traditions through the eyes of a little elephant."
+  description: "Follow the heartwarming journey of a little elephant who learns about faith, community, and the joy of the church liturgy."
+  published: 2026
   buy_links:
     - label: "Amazon"
-      url: "https://amazon.com/dp/your-book-id"
-    - label: "Bookshop.org"
-      url: "https://bookshop.org/p/books/your-book-id"
-    - label: "Barnes & Noble"
-      url: "https://barnesandnoble.com/w/your-book-id"
+      url: "https://www.amazon.com/Liturgy-Elephant-Nathan-Valentine/dp/B0HP58C59H"
   featured: true
 
-- title: "Letters from the Peninsula"
-  cover: "images/letters-peninsula.jpg"
-  tagline: "A story of distance and devotion"
-  description: "An epistolary novel spanning three decades of correspondence between two friends separated by an ocean."
-  published: 2021
+- title: "Bobrick's Prayer from Head to Toes"
+  cover: "images/bobricks-prayer.jpg"
+  tagline: "Learning how to pray with every single part of your day."
+  description: "Join Bobrick on a sweet, playful adventure as he discovers how to turn his daily routines and movements into joyful prayers from head to toes."
+  published: 2026
   buy_links:
     - label: "Amazon"
-      url: "https://amazon.com/dp/your-book-id"
-    - label: "Bookshop.org"
-      url: "https://bookshop.org/p/books/your-book-id"
+      url: "https://amazon.com"
   featured: false
+

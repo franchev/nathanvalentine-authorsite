@@ -28,7 +28,7 @@ A sweet Christian story about friendship, empathy, forgiveness, and the power of
   buy_links:
     - label: "Coming Soon on Amazon"
       url: "#"
-  featured: false
+  featured: true
 
 - title: "Swamp Boy"
   cover: "images/swamp-boy-cover.jpg"

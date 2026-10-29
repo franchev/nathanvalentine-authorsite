@@ -3,8 +3,8 @@
 
 baseURL: "https://example.github.io/nathan-valentine-author-site/"
 languageCode: "en-us"
-title: "Author Site"
-theme: "mandatory-fun"
+title: "Nathan Valentine Author Site"
+theme: "paperback"
 
 disableKinds:
   - taxonomy

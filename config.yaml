@@ -4,14 +4,14 @@
 baseURL: "https://example.github.io/nathan-valentine-author-site/"
 languageCode: "en-us"
 title: "Nathan Valentine Author Site"
-theme: "paperback"
+theme: "mandatory-fun"
 
 disableKinds:
   - taxonomy
   - term
 
 params:
-  description: "Author website built with AuthorPage"
+  description: "Author of Liturgy Elephant"
 
 menu:
   main:

@@ -6,7 +6,7 @@
 
 - title: "Liturgy Elephant"
   cover: "images/liturgy-elephant.jpg"
-  tagline: "A gentle introduction to church traditions through the eyes of a little elephant."
+  tagline: "Meet Liturgy Elephant, the little friend who turns church time into a fun adventure!"
   description: "Follow the heartwarming journey of a little elephant who learns about faith, community, and the joy of the church liturgy."
   published: 2026
   buy_links:
@@ -16,11 +16,27 @@
 
 - title: "Bobrick's Prayer from Head to Toes"
   cover: "images/bobricks-prayer.jpg"
-  tagline: "Learning how to pray with every single part of your day."
-  description: "Join Bobrick on a sweet, playful adventure as he discovers how to turn his daily routines and movements into joyful prayers from head to toes."
+  tagline: "Can Bobrick's prayers bring hope to his new friends? And will they learn that kindness matters more than appearances?"
+  description: "When Bobrick the beaver moves to a new neighborhood, the other animals laugh at him for being different. Hurt and sad, Bobrick wishes he could have a tail like everyone else.
+
+But when his new friends face troubles of their own, Bobrick doesn't laugh at them. Instead, he folds his paws and prays for them.
+
+Can Bobrick's prayers bring hope to his new friends? And will they learn that kindness matters more than appearances?
+
+A sweet Christian story about friendship, empathy, forgiveness, and the power of prayer."
   published: 2026
   buy_links:
-    - label: "Amazon"
-      url: "https://amazon.com"
+    - label: "Coming Soon on Amazon"
+      url: "#"
+  featured: false
+
+- title: "Swamp Boy"
+  cover: "images/swamp-boy-cover.jpg"
+  tagline: "A young boy must protect his marsh home before a major storm hits."
+  description: "Clay knows every secret of the marsh, from his morning chores in his wooden canoe to the deep tunnels hidden in the reeds. When a destructive creature with strange orange teeth begins ruining the marsh banks, Clay realizes the entire ridge is at risk of washing away. With a massive storm brewing in the gulf, he must use clever traps and historical swamp crafts to protect the wetlands before the rising bayou floods everything."
+  published: 2026
+  buy_links:
+    - label: "Coming Soon on Amazon"
+      url: "#"
   featured: false
 
